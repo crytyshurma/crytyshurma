@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FF00C8&center=true&vCenter=true&width=700&height=60&lines=Freut+mich!+%F0%9F%91%8B;Welcome+to+my+vision+lab_;Teaching+machines+to+see_" alt="Freut mich!" />
 </p>
+<p align="center">
+  <img src="./whoami.svg" width="85%" alt="whoami: Kriti, final-year CSE at Thapar, event cameras, coded apertures, agentic AI" />
+</p>
 
 ```python
 class Kriti:
