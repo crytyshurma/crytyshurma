@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="230" viewBox="0 0 720 230">
+  <defs>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#00FFF0"/>
+      <stop offset="1" stop-color="#FF00C8"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 19px; font-weight: 600; }
+    .dim  { fill: #8b949e; }
+    .txt  { fill: #e6edf3; }
+    .pink { fill: #FF00C8; filter: url(#glow); }
+    .cyan { fill: #00FFF0; filter: url(#glow); }
+    .lime { fill: #AAFF00; filter: url(#glow); }
+    .gold { fill: #FFDC00; filter: url(#glow); }
+    .violet { fill: #B36BFF; filter: url(#glow); }
+  </style>
+
+  <!-- window -->
+  <rect x="1.5" y="1.5" width="717" height="227" rx="12" fill="#05060d" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M1.5 13.5 a12 12 0 0 1 12 -12 h693 a12 12 0 0 1 12 12 v22 h-717 z" fill="#0e1020"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="19" r="6" fill="#28c840"/>
+  <text x="360" y="24" text-anchor="middle" class="dim" style="font-size:13px">kriti@vision-lab: ~</text>
+
+  <!-- lines -->
+  <text x="24" y="78"><tspan class="pink">$</tspan><tspan class="cyan"> whoami</tspan></text>
+
+  <text x="24" y="118"><tspan class="violet">&gt;</tspan><tspan class="pink"> kriti</tspan><tspan class="dim"> · </tspan><tspan class="txt">final-year CSE </tspan><tspan class="gold">@ Thapar</tspan></text>
+
+  <text x="24" y="152"><tspan class="violet">&gt;</tspan><tspan class="txt"> teaching </tspan><tspan class="cyan">event cameras</tspan><tspan class="txt"> &amp; </tspan><tspan class="lime">coded apertures</tspan><tspan class="txt"> to see better</tspan></text>
+
+  <text x="24" y="186"><tspan class="violet">&gt;</tspan><tspan class="txt"> side quest: </tspan><tspan class="pink">agentic AI</tspan><tspan> 🤖</tspan></text>
+
+  <rect x="24" y="200" width="11" height="4" fill="#00FFF0" filter="url(#glow)"/>
+</svg>
