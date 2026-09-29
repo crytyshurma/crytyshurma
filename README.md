@@ -25,13 +25,3 @@ class Kriti:
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logoColor=00FFF0" />
   <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=00FFF0" />
-  <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=000000&title_color=FF00C8&icon_color=00FFF0&text_color=c9d1d9&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=000000&ring=FF00C8&fire=00FFF0&currStreakLabel=00FFF0&hide_border=true" />
-</p>
-  <img src="https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF00C8" />
-  <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
-  <img src="https://img.shields.io/badge/Event_Cameras-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coded_Aperture_Imaging-000000?style=for-the-badge" />
-</p>
