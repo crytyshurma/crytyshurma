@@ -4,7 +4,7 @@
 </p>
 
 <!-- ░░ GIF (left) + skills typing (right) ░░ -->
-<img src="./scan2.gif" align="left" width="50%" alt="neon city scan" />
+<img src="./download.gif" align="left" width="50%" alt="neon city scan" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=500&color=00FFF0&multiline=true&repeat=true&width=400&height=220&lines=%3E+skills.detect();%E2%96%B8+Agentic+AI;%E2%96%B8+Computer+Vision;%E2%96%B8+Deep+Learning;%E2%96%B8+PyTorch;%E2%96%B8+Event+Cameras;%E2%96%B8+Coded+Aperture+Imaging;%E2%96%B8+CUDA" alt="Skills" />
